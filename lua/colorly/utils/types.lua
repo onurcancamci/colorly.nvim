@@ -1,0 +1,14 @@
+---@class Highlight
+---@field fg? string
+---@field bg? string
+---@field sp? string
+---@field bold? boolean
+---@field italic? boolean
+---@field underline? boolean
+---@field undercurl? boolean
+---@field strikethrough? boolean
+---@field reverse? boolean
+---@field standout? boolean
+---@field link? string
+---@field default? boolean
+---@field nocombine? boolean
